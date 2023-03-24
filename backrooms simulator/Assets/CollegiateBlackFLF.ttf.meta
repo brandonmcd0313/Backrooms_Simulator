@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: aee3c0d1384f040498d4cf5947283872
+timeCreated: 1655146309
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CollegiateBlackFLF
+  fontNames:
+  - CollegiateBlackFLF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
